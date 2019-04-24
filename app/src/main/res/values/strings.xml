@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gmail</string>
+    <string name="title_text">Sender</string>
+    <string name="date_text">23 апр.</string>
+    <string name="message_text">In this place a long text, perhaps important, and maybe not very
+</string>
+
+
+</resources>
